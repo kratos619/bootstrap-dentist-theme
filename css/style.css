@@ -71,16 +71,18 @@
 }
 
 #page-header {
-    height: 250px;
+    height: 300px;
     color: rgb(255, 255, 255);
     border-bottom-width: 1px;
     border-bottom-color: rgb(238, 238, 238);
     border-bottom-style: solid;
-    padding-top: 150px;
-    background: url("../img/about-us-001.jpg") 0px 100px fixed;
-	background-size: cover;
+    padding-top: 100px;
+    background: url("../img/about-us-001.jpg") 0px 150px fixed;
+	background-size:cover;
 }
-
+#about{
+	padding-top: 50px;
+}
 #about img {
     margin-top: -50px;
 }
@@ -151,3 +153,13 @@
 	padding-right: 4px;
 	
 }
+#authors img {
+  margin-top: -50px; }
+
+#authors .fa {
+  font-size: 25px; }
+
+#authors .card:hover {
+  background: #3292a6; }
+  #authors .card:hover .fa {
+    color: #fff; }
