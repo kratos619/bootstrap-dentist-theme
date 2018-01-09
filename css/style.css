@@ -92,9 +92,7 @@
     background: rgb(68, 68, 68);
 }
 
-#faq.bg-dark .card {
-    border: rgb(68, 68, 68);
-}
+
 
 #faq.bg-dark .card a {
     color: rgb(255, 255, 255);
@@ -163,3 +161,44 @@
   background: #3292a6; }
   #authors .card:hover .fa {
     color: #fff; }
+
+
+
+
+
+.services-full {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.services-full  h4{
+	color: #20a7db;;
+}
+
+.card-body-2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.blog-2 h4 {
+	color:#20a7db;
+	font-weight: 800;
+	font-size: 30px;
+}
+.blog-2 small{
+	font-weight: 800;
+}
+
+#contact h4 {
+	color: #20a7db;
+	font-weight: 700;
+	font-size: 35px;
+}
+
+#contact h3 {
+	color: #20a7db;
+	font-weight: 700;
+	font-size: 35px;
+}
+#staff h4 {
+	color: #20a7db;
+}
